@@ -74,7 +74,7 @@ class estudianteUDI:
 
 <img src="https://streak-stats.demolab.com?user=cxr10s&theme=chartreuse-dark&hide_border=true&background=0a0a0a&ring=adff2f&fire=adff2f&currStreakLabel=adff2f&locale=es" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxr10s&layout=compact&locale=es&hide_border=true&bg_color=0a0a0a&title_color=adff2f&text_color=ffffff" alt="Lenguajes" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cxr10s&theme=github_dark" alt="Lenguajes por repositorio" />
 
 </div>
 
