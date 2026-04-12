@@ -13,7 +13,7 @@
 
 *Aprendiz · Colombia*
 
-[![Visitas](https://komarev.com/ghpvc/?username=cxr10s&color=black&style=flat-square&label=Visitas)](https://github.com/cxr10s)
+[![Visitas](https://komarev.com/ghpvc/?username=cxr10s&color=000000&style=flat-square&label=Visitas)](https://github.com/cxr10s)
 ![GitHub followers](https://img.shields.io/badge/Followers-1-adff2f?style=flat-square&logo=github&logoColor=black)
 
 </div>
