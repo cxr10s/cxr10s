@@ -81,11 +81,11 @@ class estudianteUDI:
 
 ---
 
-## `> contacto`
+## `> Contacto`
 
 <div align="center">
 
-¿Tienes un proyecto en mente o quieres colaborar?
+¿Tienes un proyecto en mente?
 
 [![GitHub](https://img.shields.io/badge/GitHub-cxr10s-adff2f?style=for-the-badge&logo=github&logoColor=black)](https://github.com/cxr10s)
 
@@ -95,6 +95,6 @@ class estudianteUDI:
 
 <div align="center">
 
-*"Primero haz que funcione. Luego haz que sea bueno."*
+>"Primero haz que funcione. Luego haz que sea bueno."*
 
 </div>
