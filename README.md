@@ -23,7 +23,7 @@
 ## `> Quien Soy`
 
 ```py
-class Desarrollador:
+class estudianteUDI:
     def __init__(self):
         self.nombre = "Jhon Carlos Meneses Peinado"
         self.ubicacion = "Colombia"
