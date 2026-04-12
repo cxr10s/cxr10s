@@ -28,7 +28,7 @@ class estudianteUDI:
         self.nombre = "Jhon Carlos Meneses Peinado"
         self.ubicacion = "Colombia"
         self.rol = "Aprendiz"
-        self.enfoque = ["Frontend", "Integraciones de pago", "Interfaz de usuario"]
+        self.enfoque = ["Para esta web": "Frontend", "Integraciones de pago", "Interfaz de usuario"]
         self.actualmente = "Construyendo proyectos reales, para el pasatiempo"
         self.frase = "El codigo que no se usa no sirve — construyo cosas que funcionan"
 
