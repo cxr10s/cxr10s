@@ -54,12 +54,12 @@ class estudianteUDI:
 
 ## `> Proyectos `
 
-### 🏪 [STORE — Tienda Deportiva](https://cxr10s.github.io/tienda/)
+### 🏪 [STORE — Shop](https://cxr10s.github.io/shop/)
 > Comercio colombiano con pagos reales, carrito sincronizado en la nube y facturas PDF.
 
 ```
 ✅ Autenticación Google (Firebase)
-✅ Pagos con Wompi (Colombia)
+✅ Pagos con Nequi (Colombia)
 ✅ Carrito persistente por cuenta en Firestore
 ✅ Generación de facturas PDF con jsPDF
 ✅ Panel de administración de pedidos
