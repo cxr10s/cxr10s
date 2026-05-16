@@ -9,7 +9,7 @@
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═╝ ╚═════╝ ╚══════╝
 ```
 
-### Jhon Carlos Meneses Peinado
+### Carlos Peinado
 
 *Aprendiz · Colombia*
 
