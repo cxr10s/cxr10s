@@ -25,7 +25,7 @@
 ```py
 class estudianteUDI:
     def __init__(self):
-        self.nombre = "Jhon Carlos Meneses Peinado"
+        self.nombre = "Carlos Peinado"
         self.ubicacion = "Colombia"
         self.rol = "Aprendiz"
         self.enfoque = ["Para esta web": "Frontend", "Integraciones de pago", "Interfaz de usuario"]
