@@ -53,16 +53,16 @@ class estudianteUDI:
 
 ## `> Proyectos `
 
-### 🏪 [STORE — Shop](https://cxr10s.github.io/shop/)
+###  [Shop](https://cxr10s.github.io/shop/)
 > Comercio colombiano con pagos reales, carrito sincronizado en la nube y facturas PDF.
 
 ```
-✅ Autenticación Google (Firebase)
-✅ Pagos con Nequi (Colombia)
-✅ Carrito persistente por cuenta en Firestore
-✅ Generación de facturas PDF con jsPDF
-✅ Panel de administración de pedidos
-✅ Consulta de pedidos por correo o ID
+ Autenticación Google (Firebase)
+ Pagos con Nequi (Colombia)
+ Carrito persistente por cuenta en Firestore
+ Generación de facturas PDF con jsPDF
+ Panel de administración de pedidos
+ Consulta de pedidos por correo o ID
 ```
 
 ---
