@@ -30,7 +30,6 @@ class estudianteUDI:
         self.rol = "Aprendiz"
         self.enfoque = ["Para esta web": "Frontend", "Integraciones de pago", "Interfaz de usuario"]
         self.actualmente = "Construyendo proyectos reales, para el pasatiempo"
-        self.frase = "El codigo que no se usa no sirve — construyo cosas que funcionan"
 
 ```
 
