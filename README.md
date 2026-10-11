@@ -1,17 +1,17 @@
 <div align="center">
 
 ```
- ██████╗██╗  ██╗██████╗  ██╗ ██████╗ ███████╗
-██╔════╝╚██╗██╔╝██╔══██╗███║██╔═████╗██╔════╝
-██║      ╚███╔╝ ██████╔╝╚██║██║██╔██║███████╗
-██║      ██╔██╗ ██╔══██╗ ██║████╔╝██║╚════██║
-╚██████╗██╔╝ ██╗██║  ██║ ██║╚██████╔╝███████║
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═╝ ╚═════╝ ╚══════╝
+██████╗      ███╗   ███╗ █████╗ ██████╗ ██████╗ ██╗██████╗
+██╔══██╗     ████╗ ████║██╔══██╗██╔══██╗██╔══██╗██║██╔══██╗
+██████╔╝     ██╔████╔██║███████║██║  ██║██████╔╝██║██║  ██║
+██╔══██╗     ██║╚██╔╝██║██╔══██║██║  ██║██╔══██╗██║██║  ██║
+██║  ██║     ██║ ╚═╝ ██║██║  ██║██████╔╝██║  ██║██║██████╔╝
+╚═╝  ╚═╝     ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝
 ```
 
 ### Carlos Peinado
 
-*Aprendiz · Colombia*
+*Estudiante · Colombia*
 
 [![Visitas](https://komarev.com/ghpvc/?username=cxr10s&color=000000&style=flat-square&label=Visitas)](https://github.com/cxr10s)
 ![GitHub followers](https://img.shields.io/badge/Followers-1-adff2f?style=flat-square&logo=github&logoColor=black)
@@ -27,7 +27,7 @@ class estudianteUDI:
     def __init__(self):
         self.nombre = "Carlos Peinado"
         self.ubicacion = "Colombia"
-        self.rol = "Aprendiz"
+         self.rol = "Estudiante"
         self.enfoque = ["Para esta web": "Frontend", "Integraciones de pago", "Interfaz de usuario"]
         self.actualmente = "Construyendo proyectos reales, para el pasatiempo"
 
